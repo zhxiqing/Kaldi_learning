@@ -25,9 +25,9 @@
 2. [算法基础](./doc/base_algo.md)
 3. [egs实践](./doc/egs_exp.md)
 4. [源码分析](./doc/code_source.md)
-5. [模块学习]
+5. [模块学习](./doc/Module)
 
-	* nnet3(./doc/nnet3.md)
+	* [nnet3](./doc/Module/nnet3.md)
 
 ## 使用方法
 
